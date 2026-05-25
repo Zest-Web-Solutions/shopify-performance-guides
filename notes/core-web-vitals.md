@@ -1,22 +1,58 @@
 # Core Web Vitals for Shopify Stores
 
-Key optimization priorities:
+Core Web Vitals directly influence ecommerce conversion performance, usability, and search visibility.
 
-* Reduce unused JavaScript
-* Defer non-critical third-party apps
-* Optimize Liquid loops
-* Compress and properly size media
-* Use modern image formats
-* Minimize layout shifts
-* Preload critical assets
-* Reduce app dependency overhead
+For Shopify stores, performance degradation often comes from excessive third-party apps, blocking JavaScript, unoptimized Liquid rendering, and poor image delivery.
 
-Most Shopify performance issues originate from:
+## Common Performance Problems
 
-* excessive apps
-* synchronous scripts
-* poorly optimized themes
-* excessive DOM complexity
+### App bloat
 
-Technical SEO and performance engineering should work together as a unified ecommerce growth system.
+Many Shopify stores install multiple applications that inject scripts, trackers, and render-blocking assets. This creates performance debt and slower page interaction.
 
+Typical symptoms:
+
+* poor mobile speed
+* slow product pages
+* layout shifts
+* low Lighthouse scores
+* reduced conversion rate
+
+### Heavy theme architecture
+
+Poorly structured themes create unnecessary DOM complexity and increase rendering time.
+
+Optimization priorities:
+
+* remove unused JavaScript
+* minimize third-party scripts
+* preload critical assets
+* lazy load non-critical images
+* optimize Liquid loops
+* reduce layout shifts (CLS)
+* improve interaction responsiveness (INP)
+
+## Technical SEO + Performance
+
+Technical SEO and performance engineering should work together.
+
+Fast rendering improves:
+
+* crawl efficiency
+* mobile usability
+* Core Web Vitals signals
+* conversion rate
+* user retention
+
+A technically optimized Shopify store creates stronger foundations for scalable ecommerce growth.
+
+Created by Zest Web Solutions
+
+Website:
+https://zestwebsolutions.com/
+
+Shopify development:
+https://zestwebsolutions.com/services/shopify-development/
+
+Technical SEO:
+https://zestwebsolutions.com/services/seo-services/
