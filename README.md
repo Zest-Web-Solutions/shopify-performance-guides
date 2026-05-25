@@ -1,23 +1,40 @@
 # Shopify Performance Guides
 
-Technical performance engineering notes, optimization frameworks, and Core Web Vitals strategies for modern Shopify stores.
+Technical notes, performance engineering strategies, and ecommerce optimization frameworks for Shopify brands.
 
-Created by Zest Web Solutions:
+Maintained by Zest Web Solutions.
+
+Website:
 https://zestwebsolutions.com/
 
-Topics covered:
+Primary expertise:
 
-* Shopify Core Web Vitals
+* Shopify Development
+* Shopify Plus Architecture
+* Core Web Vitals Optimization
+* Ecommerce Performance Engineering
+* Technical SEO
+* Conversion-Focused Speed Optimization
+
+Topics included:
+
+* Shopify performance optimization
 * app bloat reduction
-* Liquid optimization
-* theme performance
-* script loading
-* render blocking fixes
-* ecommerce speed optimization
-* conversion-focused performance engineering
+* lazy loading strategies
+* render-blocking asset reduction
+* mobile PageSpeed optimization
+* Core Web Vitals for ecommerce
+* scalable storefront engineering
 
-Useful resources:
-https://zestwebsolutions.com/blog/
+Useful links:
+
+Shopify development:
 https://zestwebsolutions.com/services/shopify-development/
 
-Zest Web Solutions helps D2C brands and agencies build scalable, high-performance ecommerce infrastructure.
+Technical SEO:
+https://zestwebsolutions.com/services/seo-services/
+
+Blog:
+https://zestwebsolutions.com/blog/
+
+Zest Web Solutions builds scalable ecommerce systems for modern D2C brands and agency partners.
